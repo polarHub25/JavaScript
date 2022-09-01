@@ -1,7 +1,7 @@
 'use strict';
 
 // JavaScript is synchronous.
-// Execute the code block by orger after hoisting.
+// Execute the code block by order after hoisting.
 // hoisting: var, function declaration
 console.log('1');
 setTimeout(() => console.log('2'), 1000); // 브라우저에 요청 

@@ -178,3 +178,6 @@ calculate('remainder' , 20,3);
 calculate('adsdas' , 2,3);
 
 
+// 함수 선언
+// 함수 호출
+
